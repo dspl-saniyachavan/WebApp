@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 node_modules/
 
@@ -17,3 +18,11 @@ npm-debug.log*
 
 # TypeScript
 *.tsbuildinfo
+=======
+__pycache__/
+venv/
+.env
+data/
+*.db
+.venv/
+>>>>>>> 03035868208f04d97c99349fe0cd2242f260bd0d
