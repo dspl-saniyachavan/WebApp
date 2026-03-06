@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flask==3.0.0
 Flask-SQLAlchemy==3.1.1
 Flask-CORS==4.0.0
@@ -11,3 +12,18 @@ bcrypt==4.1.1
 marshmallow==3.20.1
 gmqtt==0.6.16
 websockets==12.0
+=======
+PySide6
+paho-mqtt
+argon2-cffi
+bcrypt
+requests
+cryptography
+python-dotenv
+python-socketio[client]
+python-engineio[client]
+websockets
+pytest>=7.4.0
+pytest-qt>=4.2.0
+pytest-mock>=3.11.0
+>>>>>>> 03035868208f04d97c99349fe0cd2242f260bd0d
